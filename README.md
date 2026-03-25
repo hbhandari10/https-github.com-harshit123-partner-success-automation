@@ -31,7 +31,7 @@ This project explores how AI tools can be used to:
 - Expand AI use cases
 
 ## 🤝 Contributions
-Open to collaboration and ideas from the community.
+Open to collaboration and ideas from the community
 
 ---
 
